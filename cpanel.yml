@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/camilleu/public_html/
-    - /home/camilleu/repositories/camille-portfolio index.html $DEPLOYPATH
+    - /home/camilleu/repositories/portfolio index.html $DEPLOYPATH
