@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dacd2b99.css",
+    "main.js": "/static/js/main.fd5095f7.js",
+    "static/js/787.12ce731f.chunk.js": "/static/js/787.12ce731f.chunk.js",
+    "static/media/obi-cover.png": "/static/media/obi-cover.8eb1f594a221f47a8838.png",
+    "static/media/ard-4.jpg": "/static/media/ard-4.8b321c254454f893cf5d.jpg",
+    "static/media/ardnalysis.png": "/static/media/ardnalysis.1ccbcda87527bbc4b9a0.png",
+    "static/media/ard-1.jpg": "/static/media/ard-1.034bd3c29e7363035008.jpg",
+    "static/media/ard-3.jpg": "/static/media/ard-3.067976b445ca6fe494ce.jpg",
+    "static/media/ard-2.jpg": "/static/media/ard-2.6d8190ffb82f568e43b3.jpg",
+    "static/media/sitemap-ardotalab.jpg": "/static/media/sitemap-ardotalab.43b26dd703b0077866f5.jpg",
+    "static/media/Screen4.png": "/static/media/Screen4.2ca75c4f28815a5aeff2.png",
+    "static/media/Screen1.png": "/static/media/Screen1.adea475898829ea74881.png",
+    "static/media/ardotalab-cover.png": "/static/media/ardotalab-cover.d7140351bd742e82ca35.png",
+    "static/media/Screen2.png": "/static/media/Screen2.98f2a51ff3d406a83603.png",
+    "static/media/Screen3.png": "/static/media/Screen3.e6fc0ea75e8adbe143cf.png",
+    "static/media/Wireframe-ard.jpg": "/static/media/Wireframe-ard.7f2b68c91955d2c4f1e8.jpg",
+    "static/media/Wireframes.png": "/static/media/Wireframes.f9eb45cf5194460a7fde.png",
+    "static/media/Lean-Process.jpg": "/static/media/Lean-Process.f360d91aade519d8b8eb.jpg",
+    "static/media/Analysis.jpg": "/static/media/Analysis.01c2f385bf9ea517c2e9.jpg",
+    "static/media/site-map.png": "/static/media/site-map.7956d1355652a17fefcf.png",
+    "static/media/Userflows.jpg": "/static/media/Userflows.a290528b47e91b28c5fe.jpg",
+    "static/media/Prototype.jpg": "/static/media/Prototype.9d2dd1da588fa83e0171.jpg",
+    "static/media/PolySans-Neutral.woff": "/static/media/PolySans-Neutral.0f3dd2033e389bf9a75c.woff",
+    "index.html": "/index.html",
+    "main.dacd2b99.css.map": "/static/css/main.dacd2b99.css.map",
+    "main.fd5095f7.js.map": "/static/js/main.fd5095f7.js.map",
+    "787.12ce731f.chunk.js.map": "/static/js/787.12ce731f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dacd2b99.css",
+    "static/js/main.fd5095f7.js"
+  ]
+}
